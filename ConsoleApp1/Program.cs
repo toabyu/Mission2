@@ -11,6 +11,11 @@ namespace Mission1
         
         static void Main(string[] args)
         {
+            //Name: Toa Pita
+            //Section: 001
+            //Project Description: A dice rolling simulator with histogram
+
+
             // create random number generator
             Random r = new Random();
 
